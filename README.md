@@ -31,11 +31,17 @@ myPackage/
 ## 🖥️ Sample Output
 
 Error: Account number must be exactly 8 digits.
+
 Account number set successfully.
+
 Account holder set successfully.
+
 Deposit successful: ₱5000.0
+
 Error: Withdrawal would bring balance below ₱100.
+
 Withdraw successful: ₱1500.0
+
 Account Number: 12345678
 Account Holder: Juan Dela Cruz
 Balance: ₱3500.0
